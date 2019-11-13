@@ -8,3 +8,5 @@ bootstrap-reboot.min.css
 src/fonts
 src/icons
 src/img
+src/js/slick.min.js
+src/css/slick.css
